@@ -248,14 +248,14 @@
 	}
 
 	.onePic5{
-		background-image: url("../images/road.jpg");
+		background-image: url("../images/road.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 		grid-area: pic1;
 	}
 
 	.onePic6{
-		background-image: url("../images/turn.JPG");
+		background-image: url("../images/turn.jpg");
 		background-size: contain;
 		background-repeat: no-repeat;
 		grid-area: pic1;
