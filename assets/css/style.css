@@ -220,7 +220,7 @@
 
 	.onePic1{
 		grid-area: pic1;
-		background-image: url("../images/smile.JPG");
+		background-image: url("../images/smile.JPEG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}	
