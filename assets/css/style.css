@@ -220,7 +220,7 @@
 
 	.onePic1{
 		grid-area: pic1;
-		background-image: url("../images/smile.JPEG");
+		background-image: url("../images/smile.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}	
@@ -234,14 +234,14 @@
 	}
 
 	.onePic3{
-		background-image: url("../images/me2.jpg");
+		background-image: url("../images/me2.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 		grid-area: pic1;
 	}
 
 	.onePic4{
-		background-image: url("../images/field.jpg");
+		background-image: url("../images/field.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 		grid-area: pic1;
@@ -401,112 +401,112 @@
 
 	#threePic1{
 		grid-area: pic1;
-		background-image: url("../images/blue1.jpg");
+		background-image: url("../images/blue1.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic2{
 		grid-area: pic2;
-		background-image: url("../images/blue2.jpg");
+		background-image: url("../images/blue2.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic3{
 		grid-area: pic3;
-		background-image: url("../images/blue3.jpg");
+		background-image: url("../images/blue3.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic4{
 		grid-area: pic4;
-		background-image: url("../images/blue4.jpg");
+		background-image: url("../images/blue4.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic5{
 		grid-area: pic5;
-		background-image: url("../images/blue5.jpg");
+		background-image: url("../images/blue5.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic6{
 		grid-area: pic6;
-		background-image: url("../images/blue6.jpg");
+		background-image: url("../images/blue6.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic7{
 		grid-area: pic7;
-		background-image: url("../images/blue7.jpg");
+		background-image: url("../images/blue7.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic8{
 		grid-area: pic8;
-		background-image: url("../images/blue8.jpg");
+		background-image: url("../images/blue8.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic9{
 		grid-area: pic9;
-		background-image: url("../images/blue9.jpg");
+		background-image: url("../images/blue9.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic10{
 		grid-area: pic10;
-		background-image: url("../images/blue10.jpg");
+		background-image: url("../images/blue10.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic11{
 		grid-area: pic11;
-		background-image: url("../images/blue11.jpg");
+		background-image: url("../images/blue11.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic12{
 		grid-area: pic12;
-		background-image: url("../images/blue12.jpg");
+		background-image: url("../images/blue12.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic13{
 		grid-area: pic13;
-		background-image: url("../images/blue13.jpg");
+		background-image: url("../images/blue13.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic14{
 		grid-area: pic14;
-		background-image: url("../images/blue14.jpg");
+		background-image: url("../images/blue14.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic15{
 		grid-area: pic15;
-		background-image: url("../images/blue15.jpg");
+		background-image: url("../images/blue15.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#threePic16{
 		grid-area: pic16;
-		background-image: url("../images/blue16.jpg");
+		background-image: url("../images/blue16.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
@@ -651,63 +651,63 @@
 
 	#sixPic1{
 		grid-area: pic1;
-		background-image: url("../images/page1.jpg");
+		background-image: url("../images/page1.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#sixPic2{
 		grid-area: pic2;
-		background-image: url("../images/page2.jpg");
+		background-image: url("../images/page2.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#sixPic3{
 		grid-area: pic3;
-		background-image: url("../images/page3.jpg");
+		background-image: url("../images/page3.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#sixPic4{
 		grid-area: pic4;
-		background-image: url("../images/page4.jpg");
+		background-image: url("../images/page4.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#sixPic5{
 		grid-area: pic5;
-		background-image: url("../images/page5.jpg");
+		background-image: url("../images/page5.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#sixPic6{
 		grid-area: pic6;
-		background-image: url("../images/page6.jpg");
+		background-image: url("../images/page6.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#sixPic7{
 		grid-area: pic7;
-		background-image: url("../images/page7.jpg");
+		background-image: url("../images/page7.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#sixPic8{
 		grid-area: pic8;
-		background-image: url("../images/page8.jpg");
+		background-image: url("../images/page8.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
 	#sixPic9{
 		grid-area: pic9;
-		background-image: url("../images/page9.jpg");
+		background-image: url("../images/page9.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
