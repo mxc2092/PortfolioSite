@@ -248,14 +248,14 @@
 	}
 
 	.onePic5{
-		background-image: url("../images/road.jpg");
+		background-image: url("../images/road.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 		grid-area: pic1;
 	}
 
 	.onePic6{
-		background-image: url("../images/turn.jpg");
+		background-image: url("../images/turn.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 		grid-area: pic1;
@@ -548,7 +548,7 @@
 
 	#fourPic1{
 		grid-area: pic1;
-		background-image: url("../images/letter1.jpg");
+		background-image: url("../images/letter1.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
@@ -559,13 +559,13 @@
 
 	#fourPic2{
 		grid-area: pic2;
-		background-image: url("../images/letter2.jpg");
+		background-image: url("../images/letter2.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 	#fourPic3{
 		grid-area: pic3;
-		background-image: url("../images/letter3.jpg");
+		background-image: url("../images/letter3.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
@@ -589,31 +589,31 @@
 	}
 	#fourPic7{
 		grid-area: pic7;
-		background-image: url("../images/letter7.jpg");
+		background-image: url("../images/letter7.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 	#fourPic8{
 		grid-area: pic8;
-		background-image: url("../images/letter8.jpg");
+		background-image: url("../images/letter8.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 	#fourPic9{
 		grid-area: pic9;
-		background-image: url("../images/letter9.jpg");
+		background-image: url("../images/letter9.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 	#fourPic10{
 		grid-area: pic10;
-		background-image: url("../images/letter10.jpg");
+		background-image: url("../images/letter10.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 	#fourPic11{
 		grid-area: pic11;
-		background-image: url("../images/letter11.jpg");
+		background-image: url("../images/letter11.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
