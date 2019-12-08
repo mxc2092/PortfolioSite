@@ -4,7 +4,6 @@ $(document).ready(function(){
 
 
 //Automatic Photo Slideshow
-
 var index = 0;
 
 showPhotos();
