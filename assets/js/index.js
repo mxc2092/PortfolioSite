@@ -23,7 +23,7 @@ function showPhotos() {
 
 $("#onePic7").mouseover(function(){
 
-	$("#onePic7").css("background-image", "url('./assets/images/umiami.jpg')");
+	$("#onePic7").css("background-image", "url('./assets/images/umiami.JPG')");
 });	
 
 $("#onePic7").mouseleave(function(){
