@@ -15,8 +15,8 @@ $(document).ready(function(){
 
 
 	 //my original photography
-	var imageOrder=new Array("oceanDrive.jpg","miracleMile.jpg","wynwood.jpg","southBeach.jpg","farmersMarket.jpg","river.jpg");
-	var hoverImages=new Array("oceanDrive2.jpg","miracleMile2.jpg","wynwood2.jpg","southBeach2.jpg","farmersMarket2.png","river2.jpg");
+	var imageOrder=new Array("oceanDrive.jpg","miracleMile.jpg","wynwood.JPG","southBeach.JPG","farmersMarket.JPG","river.jpg");
+	var hoverImages=new Array("oceanDrive2.jpg","miracleMile2.JPG","wynwood2.JPG","southBeach2.JPG","farmersMarket2.PNG","river2.jpg");
 	var mainOrder=new Array("Ocean Drive","Miracle Mile","Wynwood Walls","South Beach","University of Miami's Farmers Market","Miami River");
 	var paraOrder=new Array("Ocean Drive is a major thoroughfare in the South Beach neighborhood of Miami Beach, on the east or Atlantic coast of the state of Florida, in the United States.","Miracle Mile is a 0.503-mile-long (0.810 km) section of Coral Way between LeJeune Road (SW 42nd Avenue) and Douglas Road (SW 37th Avenue) in the city of Coral Gables, Florida, United States.","Wynwood is best known for being a prominent entertainment district, dotted with artwork, restaurants, breweries, clothing stores, dance venues, among other retail options.","Enjoy the white sand and crystal blue water at the beautiful beaches of South Beach!","The famers market occurs every Wednesday on campus and has plenty of great food options!","Come see the extravagent boats going across the Miami River. There are plenty of food options on the river!");
 

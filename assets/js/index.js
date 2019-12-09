@@ -28,7 +28,7 @@ $("#onePic7").mouseover(function(){
 
 $("#onePic7").mouseleave(function(){
 
-	$("#onePic7").css("background-image", "url('./assets/images/grad.jpg')");
+	$("#onePic7").css("background-image", "url('./assets/images/grad.JPG')");
 
 });
 

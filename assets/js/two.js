@@ -15,7 +15,7 @@ $("#twoPic1").mouseleave(function(){
 
 $("#twoPic5").mouseover(function(){
 
-	$("#twoPic5").css("background-image", "url('./assets/images/fair3.jpg')");
+	$("#twoPic5").css("background-image", "url('./assets/images/fair3.JPG')");
 });	
 
 $("#twoPic5").mouseleave(function(){
@@ -26,7 +26,7 @@ $("#twoPic5").mouseleave(function(){
 
 $("#twoPic4").mouseover(function(){
 
-  $("#twoPic4").css("background-image", "url('./assets/images/design22.jpg')");
+  $("#twoPic4").css("background-image", "url('./assets/images/design22.JPG')");
 }); 
 
 $("#twoPic4").mouseleave(function(){
