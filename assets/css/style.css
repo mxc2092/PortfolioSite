@@ -435,6 +435,27 @@
 	grid-area: content9;
 	}
 
+	#innerGrid3{
+	display:grid;
+	grid-gap:10px;
+	grid-template-areas:'pic1 pic2'
+	'pic3 pic4'
+	'pic5 pic6'
+	'pic7 pic8'
+	'pic9 pic10'
+	'pic11 pic12'
+	'pic13 pic14'
+	'pic15 pic16'
+	'pic17 pic18'
+	'pic19 pic20'
+	'pic21 pic22'
+	'pic23 pic24';
+	padding-bottom:1%;
+	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	height:450vw;
+	}
+	
+
 	#threePic1{
 		grid-area: pic1;
 		background-image: url("../images/blue1.JPG");
@@ -601,26 +622,6 @@
 		background-image: url("../images/sun8.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
-	}
-
-	#innerGrid3{
-	display:grid;
-	grid-gap:10px;
-	grid-template-areas:'pic1 pic2'
-	'pic3 pic4'
-	'pic5 pic6'
-	'pic7 pic8'
-	'pic9 pic10'
-	'pic11 pic12'
-	'pic13 pic14'
-	'pic15 pic16'
-	'pic17 pic18'
-	'pic19 pic20'
-	'pic21 pic22'
-	'pic23 pic24';
-	padding-bottom:1%;
-	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-	height:400vw;
 	}
 
 	#innerGrid4{
