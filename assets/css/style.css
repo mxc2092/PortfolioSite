@@ -334,9 +334,11 @@
 	'pic6'
 	'content6'
 	'pic7'
-	'content7';
+	'content7'
+	'pic8'
+	'content8';
 	padding-bottom:1%;
-	grid-template-rows: 1.5fr .5fr 1.5fr .25fr 3fr .5fr 2.5fr .25fr 1.25fr .5fr 1.25fr .5fr 1.25fr .5fr;
+	grid-template-rows: 1.5fr .5fr 1.5fr .25fr 3fr .5fr 2.5fr .25fr 1.25fr .5fr 1.25fr .5fr 1.25fr .5fr 1.5fr .25fr;
 	
 	}
 
@@ -353,7 +355,7 @@
 
 	#twoPic2{
 		grid-area: pic2;
-		background-image: url("../images/design2.png");
+		background-image: url("../images/Christovich_project3Flat.png");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
@@ -410,6 +412,17 @@
 
 	#twoContent7{
 	grid-area: content7;
+	}
+
+	#twopic8 { 
+	grid-area: pic8;
+	background-image: url("../images/design2.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	}
+
+	#twoContent8 {
+	grid-area: content8;
 	}
 
 	#threePic1{
