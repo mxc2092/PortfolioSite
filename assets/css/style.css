@@ -454,7 +454,7 @@
 	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	height:450vw;
 	}
-	
+
 
 	#threePic1{
 		grid-area: pic1;
@@ -596,28 +596,28 @@
 		background-repeat: no-repeat;
 	}
 
-	#threePic17{
+	#threePic21{
 		grid-area: pic21;
-		background-image: url("../images/sun5.JPG");
-		background-size: contain;
-		background-repeat: no-repeat;
-	}
-
-	#threePic18{
-		grid-area: pic22;
-		background-image: url("../images/sun6.JPG");
-		background-size: contain;
-		background-repeat: no-repeat;
-	}
-
-	#threePic19{
-		grid-area: pic23;
 		background-image: url("../images/sun7.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
-	#threePic20{
+	#threePic22{
+		grid-area: pic22;
+		background-image: url("../images/sun5.JPG");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	#threePic23{
+		grid-area: pic23;
+		background-image: url("../images/sun6.JPG");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	#threePic24{
 		grid-area: pic24;
 		background-image: url("../images/sun8.JPG");
 		background-size: contain;
