@@ -336,7 +336,7 @@
 	'pic7'
 	'content7';
 	padding-bottom:1%;
-	grid-template-rows: 1fr .5fr 1fr .25fr 3fr .5fr 2.5fr .25fr 1.25fr .5fr 1.25fr .5fr 1.25fr .5fr;
+	grid-template-rows: 1.5fr .5fr 1.5fr .25fr 3fr .5fr 2.5fr .25fr 1.25fr .5fr 1.25fr .5fr 1.25fr .5fr;
 	
 	}
 
