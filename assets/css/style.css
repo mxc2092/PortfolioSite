@@ -332,9 +332,11 @@
 	'pic5'
 	'content5'
 	'pic6'
-	'content6';
+	'content6'
+	'pic7'
+	'content7';
 	padding-bottom:1%;
-	grid-template-rows: 2.25fr .5fr 2.25fr .5fr 3.5fr .5fr 3.5fr .5fr 2.25fr .5fr 2.25fr .5fr;
+	grid-template-rows: 2.25fr .5fr 2.25fr .5fr 3.5fr .5fr 3.5fr .5fr 2.25fr .5fr 2.25fr .5fr 2.25 .5;
 	
 	}
 
@@ -400,6 +402,14 @@
 
 	#twoContent6{
 		grid-area: content6;
+	}
+
+	#twoPic7{
+	grid-area: pic7;
+	}
+
+	#twoContent7{
+	grid-area: content7;
 	}
 
 	#threePic1{
