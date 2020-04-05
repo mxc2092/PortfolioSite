@@ -336,9 +336,11 @@
 	'pic7'
 	'content7'
 	'pic8'
-	'content8';
+	'content8'
+	'pic9'
+	'content9';
 	padding-bottom:1%;
-	grid-template-rows: 1.5fr .5fr 1.5fr .25fr 3fr .5fr 2.5fr .25fr 1.25fr .5fr 1.25fr .5fr 1.25fr .5fr 1.5fr .25fr;
+	grid-template-rows: 1.5fr .5fr 1.5fr .25fr 3fr .5fr 2.5fr .25fr 1.25fr .5fr 1.25fr .5fr 1.25fr .5fr 1.5fr .25fr 1.25fr .5fr;
 	
 	}
 
@@ -423,6 +425,15 @@
 
 	#twoContent8 {
 	grid-area: content8;
+	}
+
+
+	#twopic9 { 
+	grid-area: pic9;
+	}
+
+	#twoContent8 {
+	grid-area: content9;
 	}
 
 	#threePic1{
