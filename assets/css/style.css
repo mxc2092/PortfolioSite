@@ -336,7 +336,7 @@
 	'pic7'
 	'content7';
 	padding-bottom:1%;
-	grid-template-rows: 2.25fr .5fr 2.25fr .5fr 3.5fr .5fr 3.5fr .5fr 2.25fr .5fr 2.25fr .5fr 2.25fr .5fr;
+	grid-template-rows: 2fr .5fr 2fr .5fr 3fr .5fr 3fr .5fr 1.25fr .5fr 1.25fr .5fr 1.25fr .5fr;
 	
 	}
 
@@ -760,7 +760,7 @@
 	}
 
 	#innerGrid2{
-	grid-template-rows: 1.5fr .25fr 1.75fr .25fr 3.5fr .25fr 3.25fr .25fr 1.75fr .25fr 1.75fr .25fr;
+	grid-template-rows: 1.5fr .25fr 1.75fr .25fr 3.5fr .25fr 3.25fr .25fr 1.75fr .25fr 1.75fr .25fr 1.75fr .25fr;
 	height:510vw;
 	margin-left:0vw;
 	}
@@ -848,8 +848,9 @@
 		'content2 content2 content2 content3 content3 content3'
 		'pic5 pic5 pic5 pic5 pic5 pic5'
 		'content5 content5 content5 content5 content5 content5'
-		'pic6 pic6 pic6 pic6 pic6 content6 ';
-		grid-template-rows: 6fr .35fr 3.5fr 5fr .25fr 5fr .25fr 3fr;
+		'pic6 pic6 pic6 pic6 pic6 content6 '
+		'content7 pic7 pic7 pic7 pic7 pic';
+		grid-template-rows: 6fr .35fr 3.5fr 5fr .25fr 5fr .25fr 3fr 3fr;
 		height:200vw;
 	}
 
