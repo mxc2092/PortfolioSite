@@ -416,7 +416,7 @@
 	grid-area: content7;
 	}
 
-	#twopic8 { 
+	#twoPic8 { 
 	grid-area: pic8;
 	background-image: url("../images/design2.png");
 	background-size: contain;
@@ -427,12 +427,11 @@
 	grid-area: content8;
 	}
 
-
-	#twopic9 { 
+	#twoPic9 { 
 	grid-area: pic9;
 	}
 
-	#twoContent8 {
+	#twoContent9 {
 	grid-area: content9;
 	}
 
