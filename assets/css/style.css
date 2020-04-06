@@ -570,7 +570,7 @@
 
 	#threePic17{
 		grid-area: pic17;
-		background-image: url("../images/sun1.JPG");
+		background-image: url("../images/sun1.jpg");
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
