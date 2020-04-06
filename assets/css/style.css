@@ -314,7 +314,7 @@
 		background-image: url("../images/grad.jpg");
 		background-size: contain;
 		background-repeat: no-repeat;
-		margin-left:30px;
+		margin-left:20px;
 	}
 
 	#oneContent2{
@@ -326,7 +326,6 @@
 		background-image: url("../images/fountain.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
-		margin-left:30px;
 	}
 
 	#oneContent3{
@@ -355,14 +354,14 @@
 	'spacer2 spacer2'
 	'icon3 icon4'
 	'spacer spacer'
-	'pic1 pic1'
 	'content1 content1'
-	'pic2 pic2'
+	'pic1 pic1'
 	'content2 content2'
-	'pic3 pic3'
+	'pic2 pic2'
 	'content3 content3'
+	'pic3 pic3'
 	'content4 content4';
-	grid-template-rows: .2fr .06fr .2fr .06fr .25fr .1fr .4fr .15fr .4fr .5fr 1fr;
+	grid-template-rows: .2fr .06fr .2fr .07fr .15fr .25fr .17fr .4fr .4fr .3fr 1fr;
 	grid-template-columns: 1fr 1fr;
 	padding-bottom: 1%;
 	}
