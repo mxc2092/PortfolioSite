@@ -277,6 +277,34 @@
 		grid-area: content1;
 	}
 
+	#icon1{
+		grid-area: icon1;
+		background-image: url("../images/Icon1.png");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	#icon2{
+		grid-area: icon2;
+		background-image: url("../images/Icon2.png");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	#icon3{
+		grid-area: icon3;
+		background-image: url("../images/Icon3.png");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	#icon4{
+		grid-area: icon4;
+		background-image: url("../images/Icon4.png");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
 	#onePic7{
 		grid-area: pic2;
 		background-image: url("../images/grad.jpg");
@@ -307,15 +335,18 @@
 	#innerGrid1{
 	display:grid;
 	grid-gap:10px;
-	grid-template-areas:'pic1'
-	'content1'
-	'pic2'
-	'content2'
-	'pic3'
-	'content3'
-	'content4';
-	grid-template-rows: .25fr .1fr .5fr .15fr .4fr .5fr 1fr;
-	padding-bottom:1%;
+	grid-template-areas:'pic1 pic1'
+	'content1 content1'
+	'icon1 icon2'
+	'icon3 icon4'
+	'pic2 pic2'
+	'content2 content2'
+	'pic3 pic3'
+	'content3 content3'
+	'content4 content4';
+	grid-template-rows: .25fr .1fr .17fr .17fr .5fr .15fr .4fr .5fr 1fr;
+	grid-template-columns: 1fr 1fr;
+	padding-bottom: 1%;
 	}
 
 	#innerGrid2{
