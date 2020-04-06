@@ -282,6 +282,7 @@
 		background-image: url("../images/Icon1.png");
 		background-size: contain;
 		background-repeat: no-repeat;
+		margin: 3px;
 	}
 
 	#icon2{
@@ -289,6 +290,7 @@
 		background-image: url("../images/Icon2.png");
 		background-size: contain;
 		background-repeat: no-repeat;
+		margin: 3px;
 	}
 
 	#icon3{
@@ -296,6 +298,7 @@
 		background-image: url("../images/Icon3.png");
 		background-size: contain;
 		background-repeat: no-repeat;
+		margin: 3px;
 	}
 
 	#icon4{
@@ -303,6 +306,7 @@
 		background-image: url("../images/Icon4.png");
 		background-size: contain;
 		background-repeat: no-repeat;
+		margin: 3px;
 	}
 
 	#onePic7{
@@ -335,16 +339,17 @@
 	#innerGrid1{
 	display:grid;
 	grid-gap:10px;
-	grid-template-areas:'pic1 pic1'
-	'content1 content1'
+	grid-template-areas:
 	'icon1 icon2'
 	'icon3 icon4'
+	'pic1 pic1'
+	'content1 content1'
 	'pic2 pic2'
 	'content2 content2'
 	'pic3 pic3'
 	'content3 content3'
 	'content4 content4';
-	grid-template-rows: .25fr .1fr .17fr .17fr .5fr .15fr .4fr .5fr 1fr;
+	grid-template-rows: .2fr .2fr .25fr .1fr .5fr .15fr .4fr .5fr 1fr;
 	grid-template-columns: 1fr 1fr;
 	padding-bottom: 1%;
 	}
