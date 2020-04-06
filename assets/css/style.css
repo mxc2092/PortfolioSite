@@ -449,10 +449,12 @@
 	'pic17 pic18'
 	'pic19 pic20'
 	'pic22 pic21'
-	'pic23 pic24';
+	'pic23 pic24'
+	'pic25 pic26'
+	'pic27 pic28';
 	padding-bottom:1%;
-	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-	height:500vw;
+	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	height:550vw;
 	}
 
 
@@ -623,6 +625,36 @@
 		background-size: contain;
 		background-repeat: no-repeat;
 	}
+
+
+	#threePic25{
+		grid-area: pic25;
+		background-image: url("../images/sun9.jpg");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	#threePic26{
+		grid-area: pic26;
+		background-image: url("../images/sun10.jpg");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	#threePic27{
+		grid-area: pic27;
+		background-image: url("../images/sun11.jpg");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
+	#threePic28{
+		grid-area: pic28;
+		background-image: url("../images/sun12.jpg");
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
+
 
 	#innerGrid4{
 		display:grid;
@@ -858,9 +890,10 @@
 	'pic10 pic11 pic12'
 	'pic13 pic14 pic15'
 	'pic17 pic18 pic19'
-	'pic20 pic21 pic22';
+	'pic20 pic21 pic22'
+	'pic23 pic24 pic25';
 	padding-bottom:1%;
-	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-template-columns: 1fr 1fr 1fr;
 	height:150vw;
 	}
@@ -951,9 +984,10 @@
 		'pic9 pic10 pic11 pic12'
 		'pic13 pic14 pic15 pic16'
 		'pic17 pic18 pic19 pic20'
-		'pic21 pic22 pic23 pic24';
+		'pic21 pic22 pic23 pic24'
+		'pic25 pic26 pic27 pic28';
 		padding-bottom:1%;
-		grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+		grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 		height:100vw;
 	}
