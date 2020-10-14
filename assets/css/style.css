@@ -22,7 +22,7 @@
 	h1 a:active{
 		color:lightblue;
 		text-decoration:none;
-	} 
+	}
 
 	h4 a{
 		text-decoration: none;
@@ -218,14 +218,14 @@
 
 	.topTitle{
 		text-align:center;
-	}	
+	}
 
 	.onePic1{
 		grid-area: pic1;
 		background-image: url("../images/smile.JPG");
 		background-size: contain;
 		background-repeat: no-repeat;
-	}	
+	}
 
 	.onePic2{
 		background-image: url("../images/silly.JPG");
@@ -389,11 +389,16 @@
 	'pic8'
 	'content8'
 	'pic9'
-	'content9';
+	'content9'
+	'pic10'
+	'content10'
+	'pic11'
+	'content11'
+	;
 	padding-bottom:1%;
-	grid-template-rows: .75fr .25fr .75fr .25fr 1.5fr .25fr 1fr .25fr .75fr .25fr .75fr .25fr .5fr .25fr 1.5fr .25fr .5fr .25fr;
-	height:1200vw;
-	
+	grid-template-rows: .75fr .25fr .75fr .25fr 1.5fr .25fr 1fr .25fr .75fr .25fr .75fr .25fr .5fr .25fr 1.5fr .25fr .5fr .25fr .5fr .5fr;
+	height:1500vw;
+
 	}
 
 	#twoPic1{
@@ -472,7 +477,7 @@
 	grid-area: content7;
 	}
 
-	#twoPic8 { 
+	#twoPic8 {
 	grid-area: pic8;
 	background-image: url("../images/design2.png");
 	background-size: contain;
@@ -483,12 +488,35 @@
 	grid-area: content8;
 	}
 
-	#twoPic9 { 
+	#twoPic9 {
 	grid-area: pic9;
 	}
 
 	#twoContent9 {
 	grid-area: content9;
+	}
+
+	#twoPic10 {
+	grid-area: pic10;
+	background-image: url("../images/inkdrawing.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	}
+
+	#twoContent10 {
+	grid-area: content10;
+	}
+
+
+	#twoPic11 {
+	grid-area: pic11;
+	background-image: url("../images/murphysketch1.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	}
+
+	#twoContent11 {
+	grid-area: content11;
 	}
 
 	#innerGrid3{
@@ -1107,10 +1135,12 @@
 		'content7 content7 content7 pic7 pic7 pic7'
 		'pic8 pic8 pic8 content8 content8 content8'
 		'content9 content9 content9 pic9 pic9 pic9'
+		'pic10 pic10 pic10 content10 content10 content10'
+		'content11 content11 content11 pic11 pic11 pic11'
 		;
 
-		grid-template-rows: 3fr .35fr 3fr 3fr 1fr 2fr 1fr 2.5fr 1.5fr 3fr 2fr;
-		height:350vw;
+		grid-template-rows: 2.5fr .35fr 3fr 3fr 1fr 2fr 1fr 2.5fr 1.5fr 3fr 1fr 2.5fr 2fr;
+		height:410vw;
 	}
 
 	#animateVid{
@@ -1157,8 +1187,3 @@
 	}
 
 }
-
-
-
-
-
