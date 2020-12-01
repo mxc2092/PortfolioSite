@@ -4,11 +4,11 @@
 
 
 /* DEVICES (mobile version) */
-@media only screen and (min-width: 375px){
+@media only screen and (min-width: 350px){
 
 	#topname{
 	margin-left:5vw;
-	color: black;
+	color: #000000;
 	font-family: 'Cormorant Garamond', serif;
 	font-size: 2.5em;
 	text-align: left;
@@ -20,7 +20,7 @@
 	}
 
 	#topname: visited{
-		color: black;
+		color: #000000;
 	}
 
 	#topbar{
@@ -32,7 +32,7 @@
 	}
 
 	a{
-		color: black;
+		color: #000000;
 	}
 
 	h2{
@@ -50,12 +50,12 @@
 
 	#topbar a{
 		margin-right: 15px;
-		color: black;
+		color: #000000;
 	}
 
 	#topbar a:hover{
 	  background-color: #5A708C;
-	  color: white;
+	  color: #FFFFFF;
 	  font-size:1.25em;
 	}
 
@@ -86,7 +86,7 @@
 	footer{
 		background-color:#5A708C;
 		padding:1.5vw;
-		color: white;
+		color: #FFFFFF;
 		padding-left:5vw;
 	}
 
@@ -110,7 +110,7 @@
 		border-radius: 6px;
 		padding:5px;
 		border: none;
-	  color: white;
+	  color: #FFFFFF;
 	  padding: 10px;
 	  text-align: center;
 	  text-decoration: none;
@@ -118,11 +118,11 @@
 	}
 
 	button:hover{
-		background-color:white;
+		background-color:#FFFFFF;
 	}
 
 	button: hover{
-		  color: black;
+		  color: #000000;
 		  font-size:1.25em;
 	}
 
@@ -226,9 +226,8 @@
 
 }
 
-/* DEVICES (tablets and ipads) */
+/* DEVICES (laptop) */
 @media only screen and (min-width: 768px){
-
 
 	#topname{
 	margin-left:5vw;
